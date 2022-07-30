@@ -1,0 +1,16 @@
+C:\Users\Karmazynowy\source\repos\nowyprojekkalkulator\nowyprojekkalkulator\bin\Debug\net5.0\nowyprojekkalkulator.exe
+C:\Users\Karmazynowy\source\repos\nowyprojekkalkulator\nowyprojekkalkulator\bin\Debug\net5.0\nowyprojekkalkulator.deps.json
+C:\Users\Karmazynowy\source\repos\nowyprojekkalkulator\nowyprojekkalkulator\bin\Debug\net5.0\nowyprojekkalkulator.runtimeconfig.json
+C:\Users\Karmazynowy\source\repos\nowyprojekkalkulator\nowyprojekkalkulator\bin\Debug\net5.0\nowyprojekkalkulator.runtimeconfig.dev.json
+C:\Users\Karmazynowy\source\repos\nowyprojekkalkulator\nowyprojekkalkulator\bin\Debug\net5.0\nowyprojekkalkulator.dll
+C:\Users\Karmazynowy\source\repos\nowyprojekkalkulator\nowyprojekkalkulator\bin\Debug\net5.0\nowyprojekkalkulator.pdb
+C:\Users\Karmazynowy\source\repos\nowyprojekkalkulator\nowyprojekkalkulator\obj\Debug\net5.0\nowyprojekkalkulator.csproj.AssemblyReference.cache
+C:\Users\Karmazynowy\source\repos\nowyprojekkalkulator\nowyprojekkalkulator\obj\Debug\net5.0\nowyprojekkalkulator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Karmazynowy\source\repos\nowyprojekkalkulator\nowyprojekkalkulator\obj\Debug\net5.0\nowyprojekkalkulator.AssemblyInfoInputs.cache
+C:\Users\Karmazynowy\source\repos\nowyprojekkalkulator\nowyprojekkalkulator\obj\Debug\net5.0\nowyprojekkalkulator.AssemblyInfo.cs
+C:\Users\Karmazynowy\source\repos\nowyprojekkalkulator\nowyprojekkalkulator\obj\Debug\net5.0\nowyprojekkalkulator.csproj.CoreCompileInputs.cache
+C:\Users\Karmazynowy\source\repos\nowyprojekkalkulator\nowyprojekkalkulator\obj\Debug\net5.0\nowyprojekkalkulator.dll
+C:\Users\Karmazynowy\source\repos\nowyprojekkalkulator\nowyprojekkalkulator\obj\Debug\net5.0\refint\nowyprojekkalkulator.dll
+C:\Users\Karmazynowy\source\repos\nowyprojekkalkulator\nowyprojekkalkulator\obj\Debug\net5.0\nowyprojekkalkulator.pdb
+C:\Users\Karmazynowy\source\repos\nowyprojekkalkulator\nowyprojekkalkulator\obj\Debug\net5.0\nowyprojekkalkulator.genruntimeconfig.cache
+C:\Users\Karmazynowy\source\repos\nowyprojekkalkulator\nowyprojekkalkulator\obj\Debug\net5.0\ref\nowyprojekkalkulator.dll
